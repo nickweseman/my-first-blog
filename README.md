@@ -1,1 +1,1 @@
-# blogtutorial
+# Writing my first blog using Django.
